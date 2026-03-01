@@ -6,8 +6,9 @@
 
 ##  Project Preview
 
-<img width="1920" height="10112" alt="Result png" src="https://github.com/user-attachments/assets/66fea1a5-b9af-4538-80bf-c0bba207fa0c" />
-
+<p align="center">
+  <img src="./Result.png" width="100%" />
+</p>
 
 ---
 
@@ -20,6 +21,22 @@ The project is built using the following technologies:
 
 
 ---
+
+##  Recreated Sections Overview
+
+| No. | Section Name                | Description of What Was Recreated |
+|-----|-----------------------------|------------------------------------|
+| 1   | Top Navigation Bar          | Logo, navigation links, and primary call-to-action button with dark background styling |
+| 2   | Hero Section                | Main headline, supporting description, call-to-action button, and large product screenshot |
+| 3   | Trusted By / Logos          | Horizontal row showcasing company logos for credibility |
+| 4   | Feature Sections (3 Blocks) | Three two-column layouts with text and image, alternating positions for visual balance |
+| 5   | Feature Cards Section       | Section heading followed by a responsive grid of 3–4 feature cards |
+| 6   | Testimonials                | Quote cards displaying user feedback with name and role |
+| 7   | Use Cases / Stories         | Card-based layout with image and short descriptive text |
+| 8   | Changelog / Updates         | List of product updates with corresponding dates |
+| 9   | Team / About                | Large image, brief description, and call-to-action button |
+| 10  | Final CTA                   | Prominent heading with a single action button |
+| 11  | Footer                      | Multi-column layout containing useful links and company information |
 
 ## 📂 Project Structure
 
